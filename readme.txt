@@ -3,3 +3,4 @@ Learning git is going well so far
 i added this line in update readme branch
 its cloudy outside today
 this is for new one
+i am making this change in newone for conflict 
